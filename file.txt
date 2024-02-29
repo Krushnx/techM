@@ -4,4 +4,7 @@ changes made
 This is M
 
 
+
+nano is better than echo
+
 This changes will not get recorded
